@@ -1,4 +1,4 @@
-# CPLD_UART_Datapath_and_Control_Unit
+# CPLD UART Datapath and Control Unit Project
 UART receiver and transmitter project using the concept of datapath and control unit.
 
 ## Documentation
